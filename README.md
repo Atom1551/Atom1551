@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Atom1551
 - 👀 I’m interested in programming and cyber security
 - 🌱 I’m currently learning Computer Engeneering
-- 💞️ I’m looking to collaborate on some C programs
+- 💞️ I’m looking to collaborate on some C/C++ programs
 
 
 <!---
